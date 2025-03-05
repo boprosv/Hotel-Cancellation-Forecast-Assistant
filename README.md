@@ -19,4 +19,6 @@ Upload Your Data:
 Simply upload your hotel booking data in CSV format. The assistant handles the rest.
 Here is the glips of the Data:
 
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20132511.png?raw=true)
+
 ![image alt](
