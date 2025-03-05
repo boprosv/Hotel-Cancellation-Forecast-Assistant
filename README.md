@@ -21,4 +21,8 @@ Here is the glips of the Data:
 
 ![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20132511.png?raw=true)
 
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20132321.png?raw=true)
+
+It will show in a window for your inspection.
+
 ![image alt](
