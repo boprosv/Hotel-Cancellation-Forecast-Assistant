@@ -17,3 +17,6 @@ Download predictions for further analysis or integration with your CRM system.
 How It Works:
 Upload Your Data:
 Simply upload your hotel booking data in CSV format. The assistant handles the rest.
+Here is the glips of the Data:
+
+![image alt](
