@@ -33,14 +33,24 @@ Inspect the data and Approve to send it to Machine Learning Agent.
 
 ![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20130606.png?raw=true)
 
-Key Metrics in the Context of Cancellation Prediction:
+    Key Metrics in the Context of Cancellation Prediction:
+    
 AUC Score (0.9465):
+
 The high AUC score indicates that the model is excellent at ranking customers by their likelihood of cancellation. This is particularly useful for targeted interventions, such as offering discounts or incentives to high-risk customers.
+
 Accuracy (0.8677):
-An accuracy of 86.77% means the model correctly predicts whether a customer will cancel or not in 86.77% of cases. This is a strong result, but accuracy alone may not be the most critical metric in cancellation prediction, especially if the dataset is imbalanced (e.g., fewer cancellations than non-cancellations, which was our case, and was handeled by SMOT).
+
+An accuracy of 86.77% means the model correctly predicts whether a customer will cancel or not in 86.77% of cases. This is a strong result, but accuracy alone may not be the most critical metric in cancellation prediction, especially if the dataset is imbalanced (For example, there were fewer cancellations than non-cancellations, which was our case, and this imbalance was handled using SMOTE).
+
 Precision (0.7636):
+
 Precision measures the proportion of predicted cancellations that are actual cancellations. A precision of 76.36% means that about 23.64% of the customers predicted to cancel are false positives (they won't actually cancel). Depending on the cost of interventions (e.g., offering discounts), in  this case is  acceptable, but still ato be determined by business side.
+
 Recall (0.8638):
+
 Recall measures the proportion of actual cancellations that the model correctly identifies. A recall of 86.38% means the model captures 86.38% of customers who will cancel, which is excellent. However, it misses about 13.62% of cancellations, which could still be significant depending on the business impact.
+
 F1 Score (0.8106):
+
 The F1 score balances precision and recall. A score of 0.8106 indicates a good trade-off, which is important in cancellation prediction because both false positives (unnecessary interventions) and false negatives (missed cancellations) can be costly. In this case  81% is pretty good number.
