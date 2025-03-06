@@ -51,6 +51,14 @@ Recall (0.8638):
 
 Recall measures the proportion of actual cancellations that the model correctly identifies. A recall of 86.38% means the model captures 86.38% of customers who will cancel, which is excellent. However, it misses about 13.62% of cancellations, which could still be significant depending on the business impact.
 
+
 F1 Score (0.8106):
 
 The F1 score balances precision and recall. A score of 0.8106 indicates a good trade-off, which is important in cancellation prediction because both false positives (unnecessary interventions) and false negatives (missed cancellations) can be costly. In this case  81% is pretty good number.
+
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20182453.png?raw=true)
+
+The model has been trained and saved for future use, generating probability scores for predictions.
+
+![image alt]()
+
