@@ -60,5 +60,8 @@ The F1 score balances precision and recall. A score of 0.8106 indicates a good t
 
 The model has been trained and saved for future use, generating probability scores for predictions.
 
-![image alt]()
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20183245.png?raw=true)
 
+On the sidebar, there's a button to upload new data, which will undergo the same cleaning steps and be processed using the saved model. To simulate new data, I removed the 'booking_status' column from the old dataset.
+
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20183245.png?raw=true)
