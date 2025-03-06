@@ -64,4 +64,6 @@ The model has been trained and saved for future use, generating probability scor
 
 On the sidebar, there's a button to upload new data, which will undergo the same cleaning steps and be processed using the saved model. To simulate new data, I removed the 'booking_status' column from the old dataset.
 
-![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20183245.png?raw=true)
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20184102.png?raw=true)
+
+The new cancellation predictions have been generated.
