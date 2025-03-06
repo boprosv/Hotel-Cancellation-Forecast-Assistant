@@ -23,5 +23,7 @@ Here is the glips of the Data:
 
 It will show in a window for your inspection.
 
-![image alt]()
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20173732.png?raw=true)
+
+You can inspect and scroll through.Then activate a Cleaning Agent.
 ![image alt]()
