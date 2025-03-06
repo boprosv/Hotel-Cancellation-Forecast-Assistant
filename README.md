@@ -66,4 +66,6 @@ On the sidebar, there's a button to upload new data, which will undergo the same
 
 ![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20184102.png?raw=true)
 
-The new cancellation predictions have been generated.
+The new cancellation predictions have been generated. Now, management can choose their strategy to lower cancellation numbers.
+
+This system is highly customizable and can be adapted to solve a variety of business challenges.
