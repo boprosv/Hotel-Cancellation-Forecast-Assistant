@@ -1,7 +1,8 @@
 # Hotel-Cancellation-Forecast-Assistant
 Predict cancellations before they happen and implement targeted retention strategies, such as personalized offers or incentives, to reduce revenue loss.
 
-In this project I created a Multy-Agent Assistant that has a User-Friendly Interface, built with Streamlit ,customizable LangGraph workflow, it has seamless Data integration, it's Scalable and Efficient!
+In this project, I created a Multi-Agent Assistant with a User-Friendly Interface built using Streamlit. It features a customizable LangGraph workflow, seamless data integration, and is both scalable and efficient. While the full process typically includes data exploration and various other steps, my focus here is on probability predictions.This system could have been fully automated, but I prefer to keep my finger on the pulse and monitor every step to ensure precision and control.
+
 Key Features:
 1. Data Cleaning Agent
 Automatically cleans and preprocesses raw booking data.
