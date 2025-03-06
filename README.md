@@ -26,4 +26,8 @@ It will show in a window for your inspection.
 ![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20173732.png?raw=true)
 
 You can inspect and scroll through.Then activate a Cleaning Agent.
+![image alt](https://github.com/boprosv/Hotel-Cancellation-Forecast-Assistant/blob/main/Screenshot%202025-03-05%20174100.png?raw=true)
+
+Inspect the data and Approve to send it to Machine Learning Agent.
+
 ![image alt]()
